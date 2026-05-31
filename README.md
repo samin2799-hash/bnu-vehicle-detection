@@ -30,3 +30,11 @@ This system detects BNU car stickers and number plates in real-time using YOLOv8
 - **Annotation:** Roboflow
 
 ## 📁 Repository Structure
+
+## 🚀 How to Run
+1. Install requirements: `pip install ultralytics easyocr opencv-python`
+2. Run detection: `python backend/detect.py`
+3. Open dashboard: `frontend/bnu_dashboard.html`
+
+## 👤 Team
+- ** Muhammad Sami ** — BNU Lahore, BS Computer Science, 2026
